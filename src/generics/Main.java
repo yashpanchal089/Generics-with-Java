@@ -8,7 +8,7 @@ public class Main {
 //        System.out.println(pair.getValue());
 
         //Bounded Type Parameter
-        Box<Integer> box = new Box<>();
+//        Box<Integer> box = new Box<>();
 
     }
 }
