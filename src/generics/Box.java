@@ -1,3 +1,5 @@
+package generics;
+
 public class Box<T> {
     private T value;
 
@@ -7,5 +9,6 @@ public class Box<T> {
 
     public void setValue(T value) {
         this.value = value;
+
     }
 }
